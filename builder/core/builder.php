@@ -5,5 +5,6 @@ class QueryBuilder
     private $group_by;
     private $order_by;
     private $where;
+    private $distinct;
 }
 ?>
